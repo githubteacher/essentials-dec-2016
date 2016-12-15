@@ -1,1 +1,1 @@
-https://githubteacher.github.io.blog
+https://LFFerrazzi.git/blog
